@@ -23,6 +23,7 @@ Izaberete pod RTools for Windows (ili koji god operacijski sustav koristite), od
 Radne skripte označene su sa .R i .Rproj.
 - Paketi_instalacija.R : Radna skripta u kojoj se nalaze naredbe za instalaciju svih potrebnih paketa koje ćemo trebati za rad u R-u.
 - Paketi_ucitavanje.R : Radna skripta u kojoj se nalaze naredbe za učitavanje svih instaliranih paketa prije početka rada u R-u.
+
 *Paket je skup funkcija koji su grupirani zajedno radi lakšeg korištenja. Primjerice paket „plotly” sadrži funkcije za izradu grafičkih prikaza u programskom jeziku R.*
 
 ***Otvorite skriptu "Paketi_instalacija.R" u R Studiu, te pokrenuti naredbe "install.packages()" klikom na ctrl + enter iza svakog reda koda, kako bi instalirali pakete u vaš sustav.***
