@@ -26,11 +26,13 @@ Radne skripte označene su sa .R i .Rproj.
 *Paket je skup funkcija koji su grupirani zajedno radi lakšeg korištenja. Primjerice paket „plotly” sadrži funkcije za izradu grafičkih prikaza u programskom jeziku R.*
 
 ***Otvorite skriptu "Paketi_instalacija.R" u R Studiu, te pokrenuti naredbe "install.packages()" klikom na ctrl + enter iza svakog reda koda, kako bi instalirali pakete u vaš sustav.***
+
 1. Otvorite R Studio.
 2. File > Open File > Paketi_instalacija.R
 3. Pokrenuti svaki install.packages() klikom na ctrl + enter
 
 **PODACI**
+
 Podaci koje ćemo obraditi na praktikumu nalaze su vrijednosti intenziteta svjetlosti (LUX) na površini (0 m) i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05.2024. godine. Senzori su mjerili u intervalu od svake minute i svakih 5 minuta.
 Podaci se nalaze u .csv datotekama.
 
