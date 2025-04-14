@@ -18,7 +18,7 @@ Izaberete pod RTools for Windows (ili koji god operacijski sustav koristite), od
 
 **PRIPREMA RADNOG OKRUŽENJA**
 
-***Preuzmite komprimiranu datoteku "BOCE_praktikum.zip" u kojoj se nalaze radne skripte i podaci, te je spremite u direktorij: "C:/Korisnik(eng. Users)/Vaše_ime/"**
+***Preuzmite komprimiranu datoteku "BOCE_praktikum.zip" u kojoj se nalaze radne skripte i podaci, te je spremite u direktorij: "C:/Korisnik(eng. Users)/Vaše_ime/"***
 
 Radne skripte označene su sa .R i .Rproj.
 - Paketi_instalacija.R : Radna skripta u kojoj se nalaze naredbe za instalaciju svih potrebnih paketa koje ćemo trebati za rad u R-u.
